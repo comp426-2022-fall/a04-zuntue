@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e54a917f-778d-47d2-a666-6d37f281c97f" name="Changes" comment="changed end lines to unix" />
+    <list default="true" id="e54a917f-778d-47d2-a666-6d37f281c97f" name="Changes" comment="is this reallly it?">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +49,11 @@
     ]
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zuntu\WebstormProjects\a04-zuntue\lib" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670655358899</updated>
       <workItem from="1670655360101" duration="1424000" />
-      <workItem from="1670694459424" duration="9395000" />
+      <workItem from="1670694459424" duration="10850000" />
     </task>
     <task id="LOCAL-00001" summary="not working for json data, but working for url based data">
       <created>1670703661894</created>
@@ -71,7 +79,28 @@
       <option name="project" value="LOCAL" />
       <updated>1670703704768</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="got rid of stupid a03 stuff">
+      <created>1670704231757</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670704231757</updated>
+    </task>
+    <task id="LOCAL-00004" summary="got rid of stupid a03 stuff">
+      <created>1670704289416</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670704289416</updated>
+    </task>
+    <task id="LOCAL-00005" summary="is this reallly it?">
+      <created>1670705175138</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670705175138</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +120,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="not working for json data, but working for url based data" />
     <MESSAGE value="changed end lines to unix" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed end lines to unix" />
+    <MESSAGE value="got rid of stupid a03 stuff" />
+    <MESSAGE value="is this reallly it?" />
+    <option name="LAST_COMMIT_MESSAGE" value="is this reallly it?" />
   </component>
 </project>

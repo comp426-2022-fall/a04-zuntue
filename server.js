@@ -48,6 +48,13 @@ app.get('/app/roll/', (req, res) => {
     res.setHeader('Content-Type', 'application/json')
     res.send(roll(s, d, r));
 })
+app.post('/app/roll/', (req, res) => {
+    const s = parseInt(req.body.sides) > 0 ? parseInt(req.body.sides) : 6;
+    const d = parseInt(req.body.dice) > 0 ? parseInt(req.body.dice) : 2;
+    const r = parseInt(req.body.rolls) > 0 ? parseInt(req.body.rolls) : 1;
+    res.setHeader('Content-Type', 'application/json')
+    res.send(roll(s, d, r));
+})
 app.get('/app/roll/:sides/', (req, res) => {
     // console.log("app.get('/app/roll/:sides/'")
     const s = parseInt(req.params.sides);
