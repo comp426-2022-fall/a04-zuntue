@@ -1,0 +1,28 @@
+{
+  "name": "dice-api",
+  "version": "0.0.1",
+  "description": "a web API using Express to serve up results from the a03 algorithem ",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-fall/a04-zuntue.git"
+  },
+  "keywords": [
+    "api",
+    "express"
+  ],
+  "author": "@zuntue",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-fall/a04-zuntue/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-fall/a04-zuntue#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "minimist": "^1.2.7"
+  }
+}
